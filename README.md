@@ -54,11 +54,10 @@ The dataset focuses on consumer shopping behavior and includes key attributes su
 - **DAX (Data Analysis Expressions)** → Custom calculations for KPIs.  
 - **SQL & Excel** → Data preprocessing and transformation.  
 
-## How to Use the Dashboard  
-1. Open the **Power BI (.pbix) file**.  
-2. Use slicers to filter data by customer type, purchase frequency, and product category.  
-3. Explore the visualizations to analyze customer behavior, sales trends, and retention rates.  
-
+## How to Use  
+- The dashboard image provides an overview of key insights.  
+- If you’d like to explore the analysis further, feel free to connect with me.  
+  
 ## Future Enhancements  
 - **Predictive Modeling** → Forecast customer churn and suggest proactive retention strategies.  
 - **Personalized Recommendations** → Identify cross-selling opportunities based on purchase history.  
